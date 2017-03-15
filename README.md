@@ -1,5 +1,7 @@
 # nuxtest
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/wilf312/nuxt.js-test.svg)](https://greenkeeper.io/)
+
 > Nuxt.js project
 
 ## Build Setup
